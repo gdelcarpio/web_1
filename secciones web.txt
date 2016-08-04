@@ -1,0 +1,12 @@
+
+pagina de mochilero
+
+secciones
+==========
+
+
+inicio (index.html)
+mis rutas (fotos y textos, y videos)
+galeria de fotos
+tips para mochilear ( consejos )
+contacto
